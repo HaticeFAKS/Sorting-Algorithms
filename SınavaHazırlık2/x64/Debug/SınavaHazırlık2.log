@@ -1,0 +1,7 @@
+﻿  SınavaHazırlık2.cpp
+C:\Users\riytt\Desktop\Üniversite\2.sene\2.Dönem\Veri Yapıları\SınavaHazırlık2\SınavaHazırlık2.cpp(52,23): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\riytt\Desktop\Üniversite\2.sene\2.Dönem\Veri Yapıları\SınavaHazırlık2\SınavaHazırlık2.cpp(64,11): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\riytt\Desktop\Üniversite\2.sene\2.Dönem\Veri Yapıları\SınavaHazırlık2\SınavaHazırlık2.cpp(73,11): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\riytt\Desktop\Üniversite\2.sene\2.Dönem\Veri Yapıları\SınavaHazırlık2\SınavaHazırlık2.cpp(94,11): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\riytt\Desktop\Üniversite\2.sene\2.Dönem\Veri Yapıları\SınavaHazırlık2\SınavaHazırlık2.cpp(116,11): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  SınavaHazırlık2.vcxproj -> C:\Users\riytt\Desktop\Üniversite\2.sene\2.Dönem\Veri Yapıları\SınavaHazırlık2\x64\Debug\SınavaHazırlık2.exe
